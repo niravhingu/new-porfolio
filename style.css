@@ -413,7 +413,7 @@ section h2{
     /* background: linear-gradient(135deg, #764ba2, var(--bg-white)); */
 
     padding: 50px 0;
-    margin-top: 120px;
+    margin-top: 200px;
 }
 .contact form{
     max-width: 320px;
@@ -472,3 +472,6 @@ footer{
     grid-template-columns: 1fr;
   }
 }
+
+#set-imag.overlay{pointer-events: none;}
+     

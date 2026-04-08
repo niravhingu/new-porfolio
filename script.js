@@ -61,3 +61,5 @@ next.addEventListener("click", () => {
 prev.addEventListener("click", () => {
     showSlide(index - 1);
 });
+
+
